@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj": {}
+    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods-assigment\\methods-assigment.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj": {
+    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods-assigment\\methods-assigment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj",
-        "projectName": "methods",
-        "projectPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj",
+        "projectUniqueName": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods-assigment\\methods-assigment.csproj",
+        "projectName": "methods-assigment",
+        "projectPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods-assigment\\methods-assigment.csproj",
         "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\obj\\",
+        "outputPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\methods\\methods-assigment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
