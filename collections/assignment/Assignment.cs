@@ -30,5 +30,17 @@ class Program
         {
             Console.WriteLine("Country Not Found!");
         }
+      if (countryCapital.Remove("Kenya"))
+{
+    Console.WriteLine("Country removed successfully!");
+}
+else
+{
+    Console.WriteLine("Country not found!");
+}
+        foreach (KeyValuePair<string, string> capital in countryCapital)
+{
+    Console.WriteLine($"{capital.Key}: {capital.Value}");
+}
     }
 }
