@@ -1,1 +1,1 @@
-C#-enterprise-developer curriculum
+# A rigorous technical curriculum and a heavy emphasis on professional development,graduates will be enterprise-ready C#/.NET software developers.
