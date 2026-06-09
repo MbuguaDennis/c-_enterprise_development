@@ -1,0 +1,15 @@
+C:\users\dennis\desktop\c#_enterprise_development\collections\bin\Debug\net10.0\collections.exe
+C:\users\dennis\desktop\c#_enterprise_development\collections\bin\Debug\net10.0\collections.deps.json
+C:\users\dennis\desktop\c#_enterprise_development\collections\bin\Debug\net10.0\collections.runtimeconfig.json
+C:\users\dennis\desktop\c#_enterprise_development\collections\bin\Debug\net10.0\collections.dll
+C:\users\dennis\desktop\c#_enterprise_development\collections\bin\Debug\net10.0\collections.pdb
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.AssemblyInfoInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.AssemblyInfo.cs
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.csproj.CoreCompileInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.sourcelink.json
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.dll
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\refint\collections.dll
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.pdb
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\collections.genruntimeconfig.cache
+C:\users\dennis\desktop\c#_enterprise_development\collections\obj\Debug\net10.0\ref\collections.dll
