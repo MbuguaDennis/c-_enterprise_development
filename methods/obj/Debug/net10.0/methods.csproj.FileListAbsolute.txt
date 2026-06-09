@@ -1,0 +1,15 @@
+C:\users\dennis\desktop\c#_enterprise_development\methods\bin\Debug\net10.0\methods.exe
+C:\users\dennis\desktop\c#_enterprise_development\methods\bin\Debug\net10.0\methods.deps.json
+C:\users\dennis\desktop\c#_enterprise_development\methods\bin\Debug\net10.0\methods.runtimeconfig.json
+C:\users\dennis\desktop\c#_enterprise_development\methods\bin\Debug\net10.0\methods.dll
+C:\users\dennis\desktop\c#_enterprise_development\methods\bin\Debug\net10.0\methods.pdb
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.AssemblyInfoInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.AssemblyInfo.cs
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.csproj.CoreCompileInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.sourcelink.json
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.dll
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\refint\methods.dll
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.pdb
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\methods.genruntimeconfig.cache
+C:\users\dennis\desktop\c#_enterprise_development\methods\obj\Debug\net10.0\ref\methods.dll

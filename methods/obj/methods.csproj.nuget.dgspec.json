@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj": {}
+    "C:\\users\\dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj": {
+    "C:\\users\\dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj",
-        "projectName": "iteration",
-        "projectPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj",
+        "projectUniqueName": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj",
+        "projectName": "methods",
+        "projectPath": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\methods\\methods.csproj",
         "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\iteration\\obj\\",
+        "outputPath": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\methods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
