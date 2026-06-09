@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\collections\\assignment\\assignment.csproj": {}
+    "C:\\users\\dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\collections\\assignment\\assignment.csproj": {
+    "C:\\users\\dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\collections\\assignment\\assignment.csproj",
-        "projectName": "assignment",
-        "projectPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\collections\\assignment\\assignment.csproj",
+        "projectUniqueName": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj",
+        "projectName": "iteration",
+        "projectPath": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\iteration\\iteration.csproj",
         "packagesPath": "C:\\Users\\Dennis\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dennis\\desktop\\c#_enterprise_development\\collections\\assignment\\obj\\",
+        "outputPath": "C:\\users\\dennis\\desktop\\c#_enterprise_development\\iteration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

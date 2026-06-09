@@ -1,0 +1,15 @@
+C:\users\dennis\desktop\c#_enterprise_development\iteration\bin\Debug\net10.0\iteration.exe
+C:\users\dennis\desktop\c#_enterprise_development\iteration\bin\Debug\net10.0\iteration.deps.json
+C:\users\dennis\desktop\c#_enterprise_development\iteration\bin\Debug\net10.0\iteration.runtimeconfig.json
+C:\users\dennis\desktop\c#_enterprise_development\iteration\bin\Debug\net10.0\iteration.dll
+C:\users\dennis\desktop\c#_enterprise_development\iteration\bin\Debug\net10.0\iteration.pdb
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.AssemblyInfoInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.AssemblyInfo.cs
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.csproj.CoreCompileInputs.cache
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.sourcelink.json
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.dll
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\refint\iteration.dll
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.pdb
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\iteration.genruntimeconfig.cache
+C:\users\dennis\desktop\c#_enterprise_development\iteration\obj\Debug\net10.0\ref\iteration.dll
